@@ -1,0 +1,15 @@
+h1 {color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+ul {
+    color: blue;
+    font-size: 20px;
+    margin-left:300px;
+}
+li{
+    margin-bottom: 50px;
+}
