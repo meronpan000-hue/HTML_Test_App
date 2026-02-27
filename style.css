@@ -1,15 +1,36 @@
-h1 {color: black;
+body{
+    margin: 50px;
+    border: 6px solid gold;
+    border-radius: 50px;
+    
+
+
+   
+}
+
+div{
+    background-color: black;
+    padding: 25px;
+    border-radius: 40px;
+    box-shadow: 10px 10px 30px -10px red;
+
     display: flex;
-    justify-content: center;
+    
+    
+}
+
+h1{
+    color: white;
+    transform: rotate(-20deg);
     align-items: center;
-
 }
 
-ul {
-    color: blue;
-    font-size: 20px;
-    margin-left:300px;
+ul{
+    list-style: none;
 }
+
 li{
-    margin-bottom: 50px;
+    color: yellow;
+    font-size: 20px;
+    padding: 10px;
 }
